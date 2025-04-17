@@ -1,20 +1,6 @@
 # 🤖 FRC Watchlist
 
-A web tool to track matches for your favorite FRC teams at the World Championship!
-
-Built with:
-- React + Material UI (frontend)
-- Express + node-fetch (backend)
-- FRC API (https://frc-events.firstinspires.org/services/API)
-
-## 🚀 Features
-
-- Input a ranked list of FRC team numbers
-- View all upcoming matches involving those teams
-- Automatically hides past matches
-- Highlights your teams in each match
-- Displays match time, division, and teams
-- Powered by the official FRC API
+A web tool to track matches for your favorite FRC teams at the World Championship, 2025
 
 ## 🔧 Local Setup
 
@@ -52,14 +38,6 @@ Built with:
 ## 📦 Deployment
 
 Coming soon — eventually you'll be able to use this live without installing anything!
-
-## ✨ Future Features
-
-- Show match countdown timers
-- Sort matches by priority or team rank
-- Export watchlist to CSV or text
-- Red/blue alliance split
-- Live match scores?
 
 ## 🛠 Built by Danny Smith
 
